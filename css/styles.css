@@ -5,8 +5,8 @@ h1 {
     text-align: center;
 }
 #image {
-    height: 800px;
-    width: 1200px; 
+    height: 1000px;
+    width: 800px; 
     background: url('http://www.paragonrelocation.com/blog/wp-content/uploads/2011/03/earth-space-709498.jpg');
     background-repeat: no-repeat;
     background-size: cover;

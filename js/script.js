@@ -1,5 +1,5 @@
 $('.myButton1').on('click',function(){
- $('#image').css('background','url(http://img1.wikia.nocookie.net/__cb20130707180853/vampirediaries/images/c/c9/Moon.jpg)').css('background-size', 'cover');
+ $('#image').css('background','url(http://img1.wikia.nocookie.net/__cb20130707180853/vampirediaries/images/c/c9/Moon.jpg)').css('background-size', 'cover').css('background-position', 'center');
 });
 
 $('.myButton2').on('click',function(){

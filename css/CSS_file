@@ -1,0 +1,16 @@
+.container {
+    background-color: aqua;
+}
+
+.level, h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.level {
+    font-size: 60px;
+}
+
+button {
+    background-color: #ff00fc;
+}

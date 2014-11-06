@@ -1,0 +1,21 @@
+h1 {
+    font-size: 40px;
+    color: white;
+    background: black;
+    text-align: center;
+}
+#image {
+    height: 800px;
+    width: 1200px; 
+    background: url('http://www.paragonrelocation.com/blog/wp-content/uploads/2011/03/earth-space-709498.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: orange;
+    }
+button {
+    color: white;
+    background: red; 
+    border: 0px;
+    margin: 10px 0px 0px 0px;
+    position: center;
+}

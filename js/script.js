@@ -3,7 +3,7 @@ $('.myButton1').on('click',function(){
 });
 
 $('.myButton2').on('click',function(){
-    $('#image').css('background','url(https://en.wikipedia.org/wiki/Earth#/media/File:The_Earth_seen_from_Apollo_17.jpg)').css('background-size', 'cover').css('background-position', 'center').css('background-size','contain').css('background-repeat','no-repeat');
+    $('#image').css('background','url(https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg)').css('background-size', 'cover').css('background-position', 'center').css('background-size','contain').css('background-repeat','no-repeat');
 });
 
 $('.myButton3').on('click',function(){

@@ -1,9 +1,9 @@
 $('.myButton1').on('click',function(){
- $('#image').css('background','url(http://img1.wikia.nocookie.net/__cb20130707180853/vampirediaries/images/c/c9/Moon.jpg)').css('background-size', 'cover').css('background-position', 'center').css('background-size','contain').css('background-repeat','no-repeat');
+ $('#image').css('background','url(https://upload.wikimedia.org/wikipedia/commons/d/dd/Full_Moon_Luc_Viatour.jpg)').css('background-size', 'cover').css('background-position', 'center').css('background-size','contain').css('background-repeat','no-repeat');
 });
 
 $('.myButton2').on('click',function(){
-    $('#image').css('background','url(http://www.paragonrelocation.com/blog/wp-content/uploads/2011/03/earth-space-709498.jpg)').css('background-size', 'cover').css('background-position', 'center').css('background-size','contain').css('background-repeat','no-repeat');
+    $('#image').css('background','url(https://en.wikipedia.org/wiki/Earth#/media/File:The_Earth_seen_from_Apollo_17.jpg)').css('background-size', 'cover').css('background-position', 'center').css('background-size','contain').css('background-repeat','no-repeat');
 });
 
 $('.myButton3').on('click',function(){
